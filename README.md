@@ -337,6 +337,3 @@ Developed by
 - **Eman Rashad** (@emanrashad1912)
 - **John Fawzy** (@johnfms)
 - **Seif Nour** (@gholamseif)
----
-
-## ⭐ If you found this project useful, don't forget to star the repository!
