@@ -230,7 +230,6 @@ Export (PDF / JSON / Heatmap)
 - TensorFlow
 - Keras
 - Streamlit
-- OpenCV
 - NumPy
 - Pandas
 - Matplotlib
@@ -251,7 +250,7 @@ Export (PDF / JSON / Heatmap)
 
 ### Prediction Results
 
-<img width="1905" height="1057" alt="gui model prediction" src="https://github.com/user-attachments/assets/30c96ab2-edf6-4821-b31c-64392f0590b8" />
+<img width="1650" height="975" alt="image" src="https://github.com/user-attachments/assets/f3846a73-c481-4b6c-a875-7b810f3dbb73" />
 
 ---
 
