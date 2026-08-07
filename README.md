@@ -328,6 +328,12 @@ This project is intended for educational and research purposes only.
 The AI-generated predictions should not be considered a medical diagnosis. Clinical decisions should always be made by qualified healthcare professionals.
 
 ---
+## 📄 Project Presentation
+
+You can find the full project presentation here:
+
+[View Project Presentation](https://drive.google.com/file/d/1yA-eoHkpuF0uBqEYX4sv_qcvRkYrn5b2/view?usp=sharing)
+---
 
 # 👥 Team
 
